@@ -3,7 +3,7 @@
 - 👀 I’m interested in finding more ways to turn data into compelling stories!
 - 🌱 I’m currently learning: Python, SQL, Tableau.
 - 💞️ I’m looking to collaborate on data projects in business, economics, finance, banking and\or electricity markets.
-- 📫 How to reach me: mic.seit@gmail.com
+- 📫 How to reach me: mic.seit@gmail.com,  www.linkedin.com/in/michael-seitaridis
 
 <!---
 MicSeit/MicSeit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
